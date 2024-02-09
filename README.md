@@ -1,6 +1,6 @@
 # Data Analyst / Data Scientist
 
-#### Technical Skills: Python, SQL, Pandas, Numpy, Scikit-Learn, Time-Series Forecasting, PowerBI, VBA
+#### Technical Skills: _Python, SQL, Pandas, Numpy, Scikit-Learn, Time-Series Forecasting, PowerBI, VBA_
 
 ## Education
 - PGD, Machine Learning & AI | IIIT-B (_2021_)								       			        		
