@@ -3,8 +3,8 @@
 Python | SQL | Pandas | Numpy | Scikit-Learn | Time-Series Forecasting | PowerBI | VBA
 
 ## Education
-- PGD, Machine Learning & AI | IIIT-B (_2021_)								       			        		
-- BMS, Business & Management | Mumbai University (_2012_)
+PGD, Machine Learning & AI | IIIT-B (_2021_)								       			        		
+BMS, Business & Management | Mumbai University (_2012_)
 
 ## Work Experience
 **Senior Data Analyst @ Electro-federation Canada** (_Sep 2022 - Present_)
