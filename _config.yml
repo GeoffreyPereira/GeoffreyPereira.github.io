@@ -3,4 +3,4 @@ logo: /assets/img/GP-CL-RD.png
 #description: text below image
 show_download: false
 #theme: jekyll-theme-minimal
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
