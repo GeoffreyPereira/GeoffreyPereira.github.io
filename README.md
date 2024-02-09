@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, Pandas, Numpy, Scikit-Learn, Time-Series Forecasting, PowerBi, VBA
+#### Technical Skills: Python, SQL, Pandas, Numpy, Scikit-Learn, Time-Series Forecasting, PowerBI, VBA
 
 ## Education
 - Post-Graduate Diploma, Machine Learning & AI | International Institute of Information Technology (_2021_)								       			        		
