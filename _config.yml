@@ -2,4 +2,5 @@ title: Geoffrey Pereira
 logo: /assets/img/GP-CL-RD.png
 #description: text below image
 show_download: false
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
